@@ -10,5 +10,8 @@ Data is unbalanced, so to make sure the model needs to be trained properly Overs
 
 Model is trained on various supervised classification Machine Learning Algorithms,
 Decision Tree Model is considered as the best fit model and deployed.
+
+![image](https://user-images.githubusercontent.com/81861874/173286940-f0a90ab1-c33f-4651-9424-14db76657595.png)
+
        
 ![Screenshot (71)](https://user-images.githubusercontent.com/81861874/173286611-74fe7512-8fe3-4e31-bbd3-ab1f47d99516.png)
